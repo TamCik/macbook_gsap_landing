@@ -1,4 +1,3 @@
-import React from 'react'
 import useMacbookStore from '../store'
 import clsx from 'clsx'
 import { Canvas } from '@react-three/fiber'
